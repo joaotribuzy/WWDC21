@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseContentIdentifier</key>
+	<string>com.apple.playgrounds.soniccreate</string>
+	<key>BaseContentVersion</key>
+	<string>4.0.3</string>
+	<key>ContentType</key>
+	<string>PlaygroundBookUserEdit</string>
+	<key>Diffs</key>
+	<dict>
+		<key>Chapters/Document1.playgroundchapter/Pages/D69D930A-6BFF-48C4-8CBF-74C58388F440.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Document1.playgroundchapter/Pages/D69D930A-6BFF-48C4-8CBF-74C58388F440.playgroundpage/main.swift</key>
+		<string>Modified</string>
+		<key>Chapters/Document1.playgroundchapter/UserManifest.plist</key>
+		<string>Added</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/Band.swift</key>
+		<string>Removed</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/CaveGlitter.swift</key>
+		<string>Removed</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/Crystals.swift</key>
+		<string>Removed</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/GraphicCluster.swift</key>
+		<string>Removed</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/GraphicLoops.swift</key>
+		<string>Removed</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/ToneGenerator.swift</key>
+		<string>Removed</string>
+	</dict>
+	<key>FormatVersion</key>
+	<integer>2</integer>
+	<key>UpdatedContentVersion</key>
+	<string>4.0.3</string>
+</dict>
+</plist>
